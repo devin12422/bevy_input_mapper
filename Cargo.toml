@@ -13,7 +13,7 @@ categories = ["game-development"]
 bind_macro = []
 
 [dependencies]
-bevy = "0.11.2"
+bevy = "0.12.1"
 
 [dev-dependencies]
 bevy_egui = "0.22.0"
